@@ -4,5 +4,10 @@
   "description": "just web server build in node.js",
   "main": "index.js",
   "author": "Aimable",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "latest": "^0.2.0"
+  }
 }
